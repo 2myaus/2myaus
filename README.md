@@ -1,6 +1,7 @@
-## hi
+## hallo world
 
-welcome to the github profile of 2myaus <br/>
-im a university student at northeastern university <br/>
-studying computer engineering<br/>
-please dont doxx me<br/>
+welcome to this github profile  
+im studying computer engineering at northeastern university  
+i like wireless communication  
+i also can code kinda good  
+thanks
